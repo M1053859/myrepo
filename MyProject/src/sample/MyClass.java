@@ -13,7 +13,7 @@ public class MyClass {
 		simple g=new simple("nithesh", 1057, 17000);
 		simple h=new simple("Sai", 1059, 20000);
 		
-		
+		Final.display(g);
 		
 		
 		System.out.println(s.getEmployeeId()+","+s.getEmployeeName()+","+s.getEmployeesalary());
