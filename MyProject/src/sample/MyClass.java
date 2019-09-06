@@ -14,7 +14,7 @@ public class MyClass {
 		simple h=new simple("Sai", 1059, 20000);
 		
 		Final.display(g);
-		
+		Final.display(h);
 		
 		System.out.println(s.getEmployeeId()+","+s.getEmployeeName()+","+s.getEmployeesalary());
 		
